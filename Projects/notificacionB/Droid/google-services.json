@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "156369362057",
+    "firebase_url": "https://primernotificacion-18076.firebaseio.com",
+    "project_id": "primernotificacion-18076",
+    "storage_bucket": "primernotificacion-18076.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156369362057:android:012198edf6b1b4f5",
+        "android_client_info": {
+          "package_name": "com.crossgeeks.pushnotificationsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156369362057-kdvokj5opcjbjlci1rekh8lqisqa9v22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfzCrf_Svh-Iv0cxhLYMNFmBVHs7tpLrU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156369362057:android:721c6b3f600a5c85",
+        "android_client_info": {
+          "package_name": "com.crossgeeks.firebasepushnotificationsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156369362057-kdvokj5opcjbjlci1rekh8lqisqa9v22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfzCrf_Svh-Iv0cxhLYMNFmBVHs7tpLrU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156369362057:android:81917fb5cbef375e",
+        "android_client_info": {
+          "package_name": "com.alba.notificacionB"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156369362057-kdvokj5opcjbjlci1rekh8lqisqa9v22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfzCrf_Svh-Iv0cxhLYMNFmBVHs7tpLrU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
